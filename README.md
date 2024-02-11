@@ -4,3 +4,5 @@ ahirzaman.vercel.app adresindeki kütüphanenin private repositorysi için oluş
 https://ahirzaman.vercel.app/
 
 Adresinden Kütüphaneye erişebilirsiniz.
+
+Projeyi https://github.com/users/washaqq/projects/1 adresinden takip edebilirsiniz.
